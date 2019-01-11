@@ -41,7 +41,11 @@ Repo para apoyar a las comunidades estudiantiles con recursos académicos.
 * Introduccion a Python
 
 ### *Arte del Tour2019*
-
+* En proceso ...
+### *Slides & Articles*
+[Proximamente](http://null.com)
+### *Referencias*
+[Proximamente](http://null.com)
 ### *Material Complementario*
-
+[Proximamente](http://null.com)
 
