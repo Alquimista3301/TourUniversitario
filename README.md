@@ -19,6 +19,8 @@ Visita https://developers.facebook.com/ para estar al día con todas las novedad
 ## *Temas*
 
 * **Inteligencia Artificial**
+Se busca brindar los fundamentos basicos de inteligancia artificial asi como las bases teoricas de los paradigmas mas populares en la industria, atravez de casos aplicativos. 
+
 * **Ciencias de la computacion**
 * **Data Sciences**
 * **SoftSkills**
