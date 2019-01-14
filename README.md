@@ -39,8 +39,8 @@ Visita https://developers.facebook.com/ para estar al día con todas las novedad
 * **De maquinas a poetas .**
 * **Vue vs React .**
 * **La vida de un programador .**
-* **Si la programacion fuera un libro de cocina. **
-* **Viajar a marte y de regreso con Data Sciences . **
+* **Si la programacion fuera un libro de cocina.**
+* **Viajar a marte y de regreso con Data Sciences .**
 * **Tu cara no importa, tus datos si.** 
 
 ### *WorkShops*
@@ -49,7 +49,7 @@ Visita https://developers.facebook.com/ para estar al día con todas las novedad
 * **Introduccion a facebook Login**
 * **Firebase & React**
 * **Music.js**
-* **WTF, music with code ? **
+* **WTF, music with code ?**
 * **Introduccion a Python**
 
 ### *Arte del Tour2019*
