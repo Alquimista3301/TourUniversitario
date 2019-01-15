@@ -44,6 +44,7 @@ Visita https://developers.facebook.com/ para estar al día con todas las novedad
 * **Si la programacion fuera un libro de cocina.**
 * **Viajar a marte y de regreso con Data Sciences .**
 * **Tu cara no importa, tus datos si.** 
+* **¿Puede una maquina escribir poesia?**
 
 ### *WorkShops*
 
@@ -53,6 +54,7 @@ Visita https://developers.facebook.com/ para estar al día con todas las novedad
 * **Music.js**
 * **WTF, music with code ?**
 * **Introduccion a Python**
+* **Maquinas Poetas**
 
 ### *Arte del Tour2019*
 * En proceso ...
